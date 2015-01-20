@@ -1,7 +1,7 @@
-GAuth Authenticator (Chrome App)
-================================
+GAuth (Chrome App)
+==================
 
-This is a small wrapper to embed the hosted version of [GAuth Authenticator](https://github.com/gbraad/html5-google-authenticator) in Chrome.
+This is a small wrapper to embed the hosted version of [GAuth](https://github.com/gbraad/html5-google-authenticator) in Chrome.
 
 
 Authors
